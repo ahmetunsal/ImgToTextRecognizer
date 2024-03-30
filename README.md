@@ -23,3 +23,7 @@ To use the application, simply click on the "Start OCR" button and select the im
 - Improve text recognition accuracy
 - Add support for more languages
 - Improve UI/UX
+
+## App Video
+<img width="300" src="https://github.com/ahmetunsal/ImgToTextRecognizer/blob/master/arts/ocr.gif?raw=true"></img>
+
