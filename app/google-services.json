@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "271988348394",
+    "project_id": "sameer-25a78",
+    "storage_bucket": "sameer-25a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271988348394:android:2e08bee55bcd3846898e93",
+        "android_client_info": {
+          "package_name": "com.ahmetunsal.unstify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnirsHfpomh44qsl7g5L3l-MUx5R-x1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271988348394:android:b0623d65703b1270898e93",
+        "android_client_info": {
+          "package_name": "com.unsalahmet.imagetotextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnirsHfpomh44qsl7g5L3l-MUx5R-x1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271988348394:android:8af19581324568c0898e93",
+        "android_client_info": {
+          "package_name": "com.unsalahmet.imgtotextrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnirsHfpomh44qsl7g5L3l-MUx5R-x1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271988348394:android:5e5c94cbd8939e12898e93",
+        "android_client_info": {
+          "package_name": "com.unsalahmet.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnirsHfpomh44qsl7g5L3l-MUx5R-x1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271988348394-eqf6k33culap9bb2tudho9pgqfdloqtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

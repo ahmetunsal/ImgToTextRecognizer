@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImgToTextRecognizer</string>
+    <string name="start_ocr">Start OCR</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="save_text">Save Text as PDF</string>
+    <string name="text_saved_to_database">Text saved to %s</string>
+    <string name="text_saved_as_pdf_in_your_downloads_folder">Text saved as PDF in your Downloads folder.</string>
+</resources>
